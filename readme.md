@@ -13,6 +13,8 @@ The **FX-Linked Decentralized Stable Coin Engine** is designed to power a series
 - **Overcollateralized**: Maintains collateral value greater than the dollar value of each stablecoin, ensuring robustness and trust.
 - **Multiple Collaterals**: Initial backing through wETH and wBTC, with plans to expand collateral options as we grow.
 
+<img width="812" alt="Screenshot 2024-03-10 at 11 37 07" src="https://github.com/fiendlabs/fiendfx-smart-contracts/assets/162796742/a4c10205-3a42-4153-8a47-99a4b3355c69">
+
 ## Engine Overview
 The [FxDSCengine.sol](./contracts/FxDSCengine.sol) contract series will serve as the core for each stablecoin. The first engine, dedicated to USDffx, will handle:
 - Collateral deposits and withdrawals.
